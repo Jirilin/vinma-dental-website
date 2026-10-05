@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+# Vinma Dental Care Website
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A responsive website developed for a dental-care use case.
+
+## Attribution
+
+This project uses the **Medilab** website template by BootstrapMade as
+its original front-end foundation.
+
+The repository is published to demonstrate the modifications and
+development work I performed on top of that template.
